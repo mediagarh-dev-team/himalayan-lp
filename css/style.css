@@ -560,7 +560,7 @@ footer {
 .ncc-media {
   position: relative;
   margin: 0 0 0 calc(-1 * var(--bleed));
-  min-height: 400px;
+  min-height: 570px;
   border-radius: 0 16px 16px 0;
   overflow: hidden;
   background: #1a2b52;
@@ -599,7 +599,7 @@ footer {
 }
 .ncc-list-head h3 {
   color: #fff;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
 }
 .ncc-list-head h3 span {
@@ -620,7 +620,7 @@ footer {
   display: flex;
   align-items: center;
   gap: 16px;
-  padding: 18px 0;
+  padding: 34px 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.14);
   cursor: default;
 }
@@ -637,7 +637,7 @@ footer {
   transition: 0.3s ease;
 }
 .ncc-item .t {
-  font: 500 20px/1.3 var(--head);
+  font: 500 24px/1.3 var(--head);
   color: #fff;
   transition: transform 0.3s ease;
 }
